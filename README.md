@@ -18,3 +18,5 @@ there will be an updated version coming soon sense it may be bugged from time to
 Virus Total Scan:
 ![image](https://github.com/user-attachments/assets/c55a0e3b-8b7e-43e4-bc9a-0729d09d894b)
 
+Youtube video:
+https://youtu.be/zyu3orXz5FQ
