@@ -14,3 +14,7 @@ sadly i have not registered with google chrome so i was unable to have it in the
 if you have any question reach out to me on GitHub (FallenGarden00)
 
 there will be an updated version coming soon sense it may be bugged from time to time
+
+Virus Total Scan:
+![image](https://github.com/user-attachments/assets/c55a0e3b-8b7e-43e4-bc9a-0729d09d894b)
+
